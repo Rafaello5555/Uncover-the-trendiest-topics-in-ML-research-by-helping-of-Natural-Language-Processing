@@ -1,1 +1,3 @@
 # Uncover-the-trendiest-topics-in-ML-research-by-helping-of-Natural-Language-Processing
+
+Neural Information Processing Systems  conference is one of the most prestigious yearly events in the machine learning community. At each NIPS conference, a large number of research papers are published. The CSV file contains information on the different NIPS papers that were published from 1987 until 2017. The data contains 7241 records.  First,  Explored the CSV file to determine what type of data we can use for the analysis and how it is structured. A research paper typically consists of a title, an abstract and the main text. Each paper discusses a novel technique or improvement. In this analysis, focused on analyzing these papers with natural language processing methods.
